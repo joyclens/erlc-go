@@ -1,6 +1,6 @@
 # erlc-go
 
-Go client for the Police Roleplay Community API. Type-safe, production-ready.
+Go client for the Police Roleplay Community API. 
 
 ## Features
 
