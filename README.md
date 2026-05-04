@@ -1,6 +1,6 @@
-# erlc-go (archived)
+# erlc-go 
 
-> simple go wrapper for erlc (prc api v1)
+> simple go wrapper for erlc 
 
 ![code quality](https://img.shields.io/badge/code%20quality-clean-brightgreen)
 ![status](https://img.shields.io/badge/status-archived-lightgrey)
